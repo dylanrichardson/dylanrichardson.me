@@ -1,3 +1,5 @@
 {
+  "name": "dylanrichardson.me",
+  "alias": "dylanrichardson.me",
   "builds": [{ "src": "index.html", "use": "@now/static" }]
 }
