@@ -1,2 +1,3 @@
-# dylanrichardson.me
-Website about me
+# Dylan Richardson's Website
+
+[dylanrichardson.me](https://dylanrichardson.me)
